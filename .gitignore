@@ -1,0 +1,14 @@
+*.jl.*.cov
+*.jl.cov
+*.jl.mem
+*.vtu
+*.jld
+/results/
+/data/
+/temp/
+/snaps/
+.DS_Store
+/Manifest.toml
+/dev/
+/cache/
+/.vscode/
